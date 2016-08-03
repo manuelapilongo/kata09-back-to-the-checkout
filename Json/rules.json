@@ -1,0 +1,4 @@
+{"A": {"code": "A", "unit_price": 50, "discount_amount": 3, "discount_price": 130},
+ "B": {"code": "B", "unit_price": 30, "discount_amount": 2, "discount_price": 45},
+ "C": {"code": "C", "unit_price": 20},
+ "D": {"code": "D", "unit_price": 15}}
